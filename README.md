@@ -27,5 +27,5 @@ but utilizing the [Cors Anywhere Heroku App](https://cors-anywhere.herokuapp.com
 * Still need to learn better ways for handling multiple types of data coming from the RSS description tag
 
 
-__This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).__
+_This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app)._
 
